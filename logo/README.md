@@ -1,5 +1,19 @@
-# acai.public
-[logo_github_readme](./logo_github_readme.png)
-[logo_text_dark](./logo_text_dark.png)
-[logo1](./logo.png)
-[logo_green](./logo_green.png)
+# ACAI Logos
+
+<img src="./logo_github_readme.png" alt="logo_github_readme" height="75" />
+<br />
+<br />
+
+<img src="./logo_text_dark.png" alt="logo_text_dark" height="75" />
+<br />
+<br />
+
+<img src="./logo.png" alt="logo1" height="75" />
+<br />
+<br />
+
+<img src="./logo_green.png" alt="logo_green" height="75" />
+<br />
+<br />
+
+<p align="center">Copyright &copy; 2024 ACAI GmbH</p>
