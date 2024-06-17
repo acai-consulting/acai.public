@@ -1,0 +1,629 @@
+{
+    "query": "*",
+    "result": {
+      "account_context_list": [
+        {
+          "accountId": "905418151471",
+          "accountName": "acai_aws-lab1_wl2",
+          "accountStatus": "ACTIVE",
+          "accountTags": {
+            "owner": "Finance",
+            "environment": "Non-Prod",
+            "application": "SAP",
+            "type": "Workload",
+            "confidentiality_level": "Restricted"
+          },
+          "ouId": "ou-er26-hsal28aq",
+          "ouIdWithPath": "o-3iuv4h36uk/r-er26/ou-er26-08tbwblz/ou-er26-sgxk358u/ou-er26-hsal28aq",
+          "ouName": "NonProd",
+          "ouNameWithPath": "Root/Lab_WorkloadAccounts/BusinessUnit_1/NonProd",
+          "ouTags": {
+            "module_provider": "ACAI GmbH",
+            "environment": "Production",
+            "module_source": "github.com/acai-consulting/terraform-aws-acf-org-ou-mgmt",
+            "application": "AWS MA Core",
+            "cicd_ado_organization": "acai-consulting",
+            "cicd_branch_name": "initial_version",
+            "cicd_pipeline_name": "Org-Mgmt",
+            "module_name": "terraform-aws-acf-org-ou-mgmt",
+            "module_version": "1.1.1",
+            "cicd_ado_project_name": "aws-lab-2024"
+          }
+        },
+        {
+          "accountId": "851725551928",
+          "accountName": "acai_aws-lab1_wl9",
+          "accountStatus": "ACTIVE",
+          "accountTags": {
+            "owner": "Technology",
+            "environment": "Prod",
+            "application": "IoT",
+            "type": "Workload",
+            "confidentiality_level": "Internal"
+          },
+          "ouId": "ou-er26-m6xe2sgi",
+          "ouIdWithPath": "o-3iuv4h36uk/r-er26/ou-er26-08tbwblz/ou-er26-q3h5v9hp/ou-er26-m6xe2sgi",
+          "ouName": "Prod",
+          "ouNameWithPath": "Root/Lab_WorkloadAccounts/BusinessUnit_2/Prod",
+          "ouTags": {
+            "module_provider": "ACAI GmbH",
+            "environment": "Production",
+            "module_source": "github.com/acai-consulting/terraform-aws-acf-org-ou-mgmt",
+            "application": "AWS MA Core",
+            "cicd_ado_organization": "acai-consulting",
+            "cicd_branch_name": "initial_version",
+            "cicd_pipeline_name": "Org-Mgmt",
+            "module_name": "terraform-aws-acf-org-ou-mgmt",
+            "module_version": "1.1.1",
+            "cicd_ado_project_name": "aws-lab-2024"
+          }
+        },
+        {
+          "accountId": "975050251880",
+          "accountName": "acai_aws-lab1_core-security-tooling",
+          "accountStatus": "ACTIVE",
+          "accountTags": {
+            "owner": "Foundation Core Team",
+            "environment": "Prod",
+            "type": "Core",
+            "confidantiality_level": "Internal"
+          },
+          "ouId": "ou-er26-p5p4ro17",
+          "ouIdWithPath": "o-3iuv4h36uk/r-er26/ou-er26-l6hjwl3y/ou-er26-p5p4ro17",
+          "ouName": "Security",
+          "ouNameWithPath": "Root/Lab_CoreAccounts/Security",
+          "ouTags": {
+            "module_provider": "ACAI GmbH",
+            "environment": "Production",
+            "module_source": "github.com/acai-consulting/terraform-aws-acf-org-ou-mgmt",
+            "application": "AWS MA Core",
+            "cicd_ado_organization": "acai-consulting",
+            "cicd_branch_name": "initial_version",
+            "cicd_pipeline_name": "Org-Mgmt",
+            "module_name": "terraform-aws-acf-org-ou-mgmt",
+            "module_version": "1.1.1",
+            "cicd_ado_project_name": "aws-lab-2024"
+          }
+        },
+        {
+          "accountId": "654654540496",
+          "accountName": "acai_aws-lab1_core-cicd",
+          "accountStatus": "ACTIVE",
+          "accountTags": {
+            "owner": "Foundation Core Team",
+            "environment": "Prod",
+            "type": "Core",
+            "confidantiality_level": "Internal"
+          },
+          "ouId": "ou-er26-nopkw4dg",
+          "ouIdWithPath": "o-3iuv4h36uk/r-er26/ou-er26-l6hjwl3y/ou-er26-nopkw4dg",
+          "ouName": "Management",
+          "ouNameWithPath": "Root/Lab_CoreAccounts/Management",
+          "ouTags": {
+            "module_provider": "ACAI GmbH",
+            "environment": "Production",
+            "module_source": "github.com/acai-consulting/terraform-aws-acf-org-ou-mgmt",
+            "application": "AWS MA Core",
+            "cicd_ado_organization": "acai-consulting",
+            "cicd_branch_name": "initial_version",
+            "cicd_pipeline_name": "Org-Mgmt",
+            "module_name": "terraform-aws-acf-org-ou-mgmt",
+            "module_version": "1.1.1",
+            "cicd_ado_project_name": "aws-lab-2024"
+          }
+        },
+        {
+          "accountId": "058264133468",
+          "accountName": "acai_aws-lab1_wl10",
+          "accountStatus": "ACTIVE",
+          "accountTags": {
+            "owner": "Technology",
+            "environment": "Non-Prod",
+            "application": "IoT",
+            "type": "Workload",
+            "confidentiality_level": "Internal"
+          },
+          "ouId": "ou-er26-dixhnh76",
+          "ouIdWithPath": "o-3iuv4h36uk/r-er26/ou-er26-08tbwblz/ou-er26-q3h5v9hp/ou-er26-dixhnh76",
+          "ouName": "NonProd",
+          "ouNameWithPath": "Root/Lab_WorkloadAccounts/BusinessUnit_2/NonProd",
+          "ouTags": {
+            "module_provider": "ACAI GmbH",
+            "environment": "Production",
+            "module_source": "github.com/acai-consulting/terraform-aws-acf-org-ou-mgmt",
+            "application": "AWS MA Core",
+            "cicd_ado_organization": "acai-consulting",
+            "cicd_branch_name": "initial_version",
+            "cicd_pipeline_name": "Org-Mgmt",
+            "module_name": "terraform-aws-acf-org-ou-mgmt",
+            "module_version": "1.1.1",
+            "cicd_ado_project_name": "aws-lab-2024"
+          }
+        },
+        {
+          "accountId": "891376920850",
+          "accountName": "acai_aws-lab1_core-baselining",
+          "accountStatus": "ACTIVE",
+          "accountTags": {
+            "owner": "Foundation Core Team",
+            "environment": "Prod",
+            "type": "Core",
+            "confidantiality_level": "Internal"
+          },
+          "ouId": "ou-er26-nopkw4dg",
+          "ouIdWithPath": "o-3iuv4h36uk/r-er26/ou-er26-l6hjwl3y/ou-er26-nopkw4dg",
+          "ouName": "Management",
+          "ouNameWithPath": "Root/Lab_CoreAccounts/Management",
+          "ouTags": {
+            "module_provider": "ACAI GmbH",
+            "environment": "Production",
+            "module_source": "github.com/acai-consulting/terraform-aws-acf-org-ou-mgmt",
+            "application": "AWS MA Core",
+            "cicd_ado_organization": "acai-consulting",
+            "cicd_branch_name": "initial_version",
+            "cicd_pipeline_name": "Org-Mgmt",
+            "module_name": "terraform-aws-acf-org-ou-mgmt",
+            "module_version": "1.1.1",
+            "cicd_ado_project_name": "aws-lab-2024"
+          }
+        },
+        {
+          "accountId": "975049905426",
+          "accountName": "acai_aws-lab1_wl1",
+          "accountStatus": "ACTIVE",
+          "accountTags": {
+            "owner": "Finance",
+            "environment": "Prod",
+            "application": "SAP",
+            "type": "Workload",
+            "confidentiality_level": "Restricted"
+          },
+          "ouId": "ou-er26-f8m7zzw4",
+          "ouIdWithPath": "o-3iuv4h36uk/r-er26/ou-er26-08tbwblz/ou-er26-sgxk358u/ou-er26-f8m7zzw4",
+          "ouName": "Prod",
+          "ouNameWithPath": "Root/Lab_WorkloadAccounts/BusinessUnit_1/Prod",
+          "ouTags": {
+            "module_provider": "ACAI GmbH",
+            "environment": "Production",
+            "module_source": "github.com/acai-consulting/terraform-aws-acf-org-ou-mgmt",
+            "application": "AWS MA Core",
+            "cicd_ado_organization": "acai-consulting",
+            "cicd_branch_name": "initial_version",
+            "cicd_pipeline_name": "Org-Mgmt",
+            "module_name": "terraform-aws-acf-org-ou-mgmt",
+            "module_version": "1.1.1",
+            "cicd_ado_project_name": "aws-lab-2024"
+          }
+        },
+        {
+          "accountId": "533267373639",
+          "accountName": "acai_aws-lab1_wl5",
+          "accountStatus": "ACTIVE",
+          "accountTags": {
+            "owner": "Data Science",
+            "environment": "Prod",
+            "application": "Data Analytics",
+            "type": "Workload",
+            "confidentiality_level": "Confidential"
+          },
+          "ouId": "ou-er26-m6xe2sgi",
+          "ouIdWithPath": "o-3iuv4h36uk/r-er26/ou-er26-08tbwblz/ou-er26-q3h5v9hp/ou-er26-m6xe2sgi",
+          "ouName": "Prod",
+          "ouNameWithPath": "Root/Lab_WorkloadAccounts/BusinessUnit_2/Prod",
+          "ouTags": {
+            "module_provider": "ACAI GmbH",
+            "environment": "Production",
+            "module_source": "github.com/acai-consulting/terraform-aws-acf-org-ou-mgmt",
+            "application": "AWS MA Core",
+            "cicd_ado_organization": "acai-consulting",
+            "cicd_branch_name": "initial_version",
+            "cicd_pipeline_name": "Org-Mgmt",
+            "module_name": "terraform-aws-acf-org-ou-mgmt",
+            "module_version": "1.1.1",
+            "cicd_ado_project_name": "aws-lab-2024"
+          }
+        },
+        {
+          "accountId": "637423197597",
+          "accountName": "acai_aws-lab1_wl13",
+          "accountStatus": "ACTIVE",
+          "accountTags": {
+            "owner": "Public Relations",
+            "environment": "Prod",
+            "application": "ChatBot",
+            "type": "Workload",
+            "confidentiality_level": "Public"
+          },
+          "ouId": "ou-er26-yhoi74yu",
+          "ouIdWithPath": "o-3iuv4h36uk/r-er26/ou-er26-08tbwblz/ou-er26-86t9eq70/ou-er26-yhoi74yu",
+          "ouName": "Prod",
+          "ouNameWithPath": "Root/Lab_WorkloadAccounts/BusinessUnit_3/Prod",
+          "ouTags": {
+            "module_provider": "ACAI GmbH",
+            "environment": "Production",
+            "module_source": "github.com/acai-consulting/terraform-aws-acf-org-ou-mgmt",
+            "application": "AWS MA Core",
+            "cicd_ado_organization": "acai-consulting",
+            "cicd_branch_name": "initial_version",
+            "cicd_pipeline_name": "Org-Mgmt",
+            "module_name": "terraform-aws-acf-org-ou-mgmt",
+            "module_version": "1.1.1",
+            "cicd_ado_project_name": "aws-lab-2024"
+          }
+        },
+        {
+          "accountId": "637423299405",
+          "accountName": "acai_aws-lab1_core-observability",
+          "accountStatus": "ACTIVE",
+          "accountTags": {
+            "owner": "Foundation Core Team",
+            "environment": "Prod",
+            "type": "Core",
+            "confidantiality_level": "Secret"
+          },
+          "ouId": "ou-er26-p5p4ro17",
+          "ouIdWithPath": "o-3iuv4h36uk/r-er26/ou-er26-l6hjwl3y/ou-er26-p5p4ro17",
+          "ouName": "Security",
+          "ouNameWithPath": "Root/Lab_CoreAccounts/Security",
+          "ouTags": {
+            "module_provider": "ACAI GmbH",
+            "environment": "Production",
+            "module_source": "github.com/acai-consulting/terraform-aws-acf-org-ou-mgmt",
+            "application": "AWS MA Core",
+            "cicd_ado_organization": "acai-consulting",
+            "cicd_branch_name": "initial_version",
+            "cicd_pipeline_name": "Org-Mgmt",
+            "module_name": "terraform-aws-acf-org-ou-mgmt",
+            "module_version": "1.1.1",
+            "cicd_ado_project_name": "aws-lab-2024"
+          }
+        },
+        {
+          "accountId": "339712813830",
+          "accountName": "acai_aws-lab1_wl3",
+          "accountStatus": "ACTIVE",
+          "accountTags": {
+            "owner": "Customer Relations",
+            "environment": "Prod",
+            "application": "CRM",
+            "type": "Workload",
+            "confidentiality_level": "Confidential"
+          },
+          "ouId": "ou-er26-f8m7zzw4",
+          "ouIdWithPath": "o-3iuv4h36uk/r-er26/ou-er26-08tbwblz/ou-er26-sgxk358u/ou-er26-f8m7zzw4",
+          "ouName": "Prod",
+          "ouNameWithPath": "Root/Lab_WorkloadAccounts/BusinessUnit_1/Prod",
+          "ouTags": {
+            "module_provider": "ACAI GmbH",
+            "environment": "Production",
+            "module_source": "github.com/acai-consulting/terraform-aws-acf-org-ou-mgmt",
+            "application": "AWS MA Core",
+            "cicd_ado_organization": "acai-consulting",
+            "cicd_branch_name": "initial_version",
+            "cicd_pipeline_name": "Org-Mgmt",
+            "module_name": "terraform-aws-acf-org-ou-mgmt",
+            "module_version": "1.1.1",
+            "cicd_ado_project_name": "aws-lab-2024"
+          }
+        },
+        {
+          "accountId": "058264189027",
+          "accountName": "acai_aws-lab1_core-log-archive",
+          "accountStatus": "ACTIVE",
+          "accountTags": {
+            "owner": "Foundation Core Team",
+            "environment": "Prod",
+            "type": "Core",
+            "confidantiality_level": "Secret"
+          },
+          "ouId": "ou-er26-p5p4ro17",
+          "ouIdWithPath": "o-3iuv4h36uk/r-er26/ou-er26-l6hjwl3y/ou-er26-p5p4ro17",
+          "ouName": "Security",
+          "ouNameWithPath": "Root/Lab_CoreAccounts/Security",
+          "ouTags": {
+            "module_provider": "ACAI GmbH",
+            "environment": "Production",
+            "module_source": "github.com/acai-consulting/terraform-aws-acf-org-ou-mgmt",
+            "application": "AWS MA Core",
+            "cicd_ado_organization": "acai-consulting",
+            "cicd_branch_name": "initial_version",
+            "cicd_pipeline_name": "Org-Mgmt",
+            "module_name": "terraform-aws-acf-org-ou-mgmt",
+            "module_version": "1.1.1",
+            "cicd_ado_project_name": "aws-lab-2024"
+          }
+        },
+        {
+          "accountId": "891376918207",
+          "accountName": "acai_aws-lab1_wl7",
+          "accountStatus": "ACTIVE",
+          "accountTags": {
+            "owner": "Operations",
+            "environment": "Prod",
+            "application": "Supply Chain Management",
+            "type": "Workload",
+            "confidentiality_level": "Confidential"
+          },
+          "ouId": "ou-er26-m6xe2sgi",
+          "ouIdWithPath": "o-3iuv4h36uk/r-er26/ou-er26-08tbwblz/ou-er26-q3h5v9hp/ou-er26-m6xe2sgi",
+          "ouName": "Prod",
+          "ouNameWithPath": "Root/Lab_WorkloadAccounts/BusinessUnit_2/Prod",
+          "ouTags": {
+            "module_provider": "ACAI GmbH",
+            "environment": "Production",
+            "module_source": "github.com/acai-consulting/terraform-aws-acf-org-ou-mgmt",
+            "application": "AWS MA Core",
+            "cicd_ado_organization": "acai-consulting",
+            "cicd_branch_name": "initial_version",
+            "cicd_pipeline_name": "Org-Mgmt",
+            "module_name": "terraform-aws-acf-org-ou-mgmt",
+            "module_version": "1.1.1",
+            "cicd_ado_project_name": "aws-lab-2024"
+          }
+        },
+        {
+          "accountId": "851725495887",
+          "accountName": "acai_aws-lab1_wl14",
+          "accountStatus": "ACTIVE",
+          "accountTags": {
+            "owner": "Public Relations",
+            "environment": "Non-Prod",
+            "application": "ChatBot",
+            "type": "Workload",
+            "confidentiality_level": "Public"
+          },
+          "ouId": "ou-er26-8vb7cngv",
+          "ouIdWithPath": "o-3iuv4h36uk/r-er26/ou-er26-08tbwblz/ou-er26-86t9eq70/ou-er26-8vb7cngv",
+          "ouName": "NonProd",
+          "ouNameWithPath": "Root/Lab_WorkloadAccounts/BusinessUnit_3/NonProd",
+          "ouTags": {
+            "module_provider": "ACAI GmbH",
+            "environment": "Production",
+            "module_source": "github.com/acai-consulting/terraform-aws-acf-org-ou-mgmt",
+            "application": "AWS MA Core",
+            "cicd_ado_organization": "acai-consulting",
+            "cicd_branch_name": "initial_version",
+            "cicd_pipeline_name": "Org-Mgmt",
+            "module_name": "terraform-aws-acf-org-ou-mgmt",
+            "module_version": "1.1.1",
+            "cicd_ado_project_name": "aws-lab-2024"
+          }
+        },
+        {
+          "accountId": "211125437884",
+          "accountName": "acai_aws-lab1_core-backup",
+          "accountStatus": "ACTIVE",
+          "accountTags": {
+            "owner": "Foundation Core Team",
+            "environment": "Prod",
+            "type": "Core",
+            "confidantiality_level": "Secret"
+          },
+          "ouId": "ou-er26-p5p4ro17",
+          "ouIdWithPath": "o-3iuv4h36uk/r-er26/ou-er26-l6hjwl3y/ou-er26-p5p4ro17",
+          "ouName": "Security",
+          "ouNameWithPath": "Root/Lab_CoreAccounts/Security",
+          "ouTags": {
+            "module_provider": "ACAI GmbH",
+            "environment": "Production",
+            "module_source": "github.com/acai-consulting/terraform-aws-acf-org-ou-mgmt",
+            "application": "AWS MA Core",
+            "cicd_ado_organization": "acai-consulting",
+            "cicd_branch_name": "initial_version",
+            "cicd_pipeline_name": "Org-Mgmt",
+            "module_name": "terraform-aws-acf-org-ou-mgmt",
+            "module_version": "1.1.1",
+            "cicd_ado_project_name": "aws-lab-2024"
+          }
+        },
+        {
+          "accountId": "590183804009",
+          "accountName": "acai_aws-lab1_org-mgmt",
+          "accountStatus": "ACTIVE",
+          "accountTags": {
+            "owner": "Foundation Core Team",
+            "environment": "Prod",
+            "type": "Core",
+            "confidantiality_level": "Secret"
+          },
+          "ouId": "r-er26",
+          "ouIdWithPath": "o-3iuv4h36uk/r-er26",
+          "ouName": "Root",
+          "ouNameWithPath": "Root",
+          "ouTags": {}
+        },
+        {
+          "accountId": "975049907839",
+          "accountName": "acai_aws-lab1_core-networking",
+          "accountStatus": "ACTIVE",
+          "accountTags": {
+            "owner": "Foundation Core Team",
+            "environment": "Prod",
+            "type": "Core",
+            "confidantiality_level": "Secret"
+          },
+          "ouId": "ou-er26-ngm67m76",
+          "ouIdWithPath": "o-3iuv4h36uk/r-er26/ou-er26-l6hjwl3y/ou-er26-ngm67m76",
+          "ouName": "Connectivity",
+          "ouNameWithPath": "Root/Lab_CoreAccounts/Connectivity",
+          "ouTags": {
+            "module_provider": "ACAI GmbH",
+            "environment": "Production",
+            "module_source": "github.com/acai-consulting/terraform-aws-acf-org-ou-mgmt",
+            "application": "AWS MA Core",
+            "cicd_ado_organization": "acai-consulting",
+            "cicd_branch_name": "initial_version",
+            "cicd_pipeline_name": "Org-Mgmt",
+            "module_name": "terraform-aws-acf-org-ou-mgmt",
+            "module_version": "1.1.1",
+            "cicd_ado_project_name": "aws-lab-2024"
+          }
+        },
+        {
+          "accountId": "590184140845",
+          "accountName": "acai_aws-lab1_wl12",
+          "accountStatus": "ACTIVE",
+          "accountTags": {
+            "owner": "Public Relations",
+            "environment": "Non-Prod",
+            "application": "WebSite",
+            "type": "Workload",
+            "confidentiality_level": "Public"
+          },
+          "ouId": "ou-er26-8vb7cngv",
+          "ouIdWithPath": "o-3iuv4h36uk/r-er26/ou-er26-08tbwblz/ou-er26-86t9eq70/ou-er26-8vb7cngv",
+          "ouName": "NonProd",
+          "ouNameWithPath": "Root/Lab_WorkloadAccounts/BusinessUnit_3/NonProd",
+          "ouTags": {
+            "module_provider": "ACAI GmbH",
+            "environment": "Production",
+            "module_source": "github.com/acai-consulting/terraform-aws-acf-org-ou-mgmt",
+            "application": "AWS MA Core",
+            "cicd_ado_organization": "acai-consulting",
+            "cicd_branch_name": "initial_version",
+            "cicd_pipeline_name": "Org-Mgmt",
+            "module_name": "terraform-aws-acf-org-ou-mgmt",
+            "module_version": "1.1.1",
+            "cicd_ado_project_name": "aws-lab-2024"
+          }
+        },
+        {
+          "accountId": "533267304214",
+          "accountName": "acai_aws-lab1_wl8",
+          "accountStatus": "ACTIVE",
+          "accountTags": {
+            "owner": "Operations",
+            "environment": "Non-Prod",
+            "application": "Supply Chain Management",
+            "type": "Workload",
+            "confidentiality_level": "Confidential"
+          },
+          "ouId": "ou-er26-dixhnh76",
+          "ouIdWithPath": "o-3iuv4h36uk/r-er26/ou-er26-08tbwblz/ou-er26-q3h5v9hp/ou-er26-dixhnh76",
+          "ouName": "NonProd",
+          "ouNameWithPath": "Root/Lab_WorkloadAccounts/BusinessUnit_2/NonProd",
+          "ouTags": {
+            "module_provider": "ACAI GmbH",
+            "environment": "Production",
+            "module_source": "github.com/acai-consulting/terraform-aws-acf-org-ou-mgmt",
+            "application": "AWS MA Core",
+            "cicd_ado_organization": "acai-consulting",
+            "cicd_branch_name": "initial_version",
+            "cicd_pipeline_name": "Org-Mgmt",
+            "module_name": "terraform-aws-acf-org-ou-mgmt",
+            "module_version": "1.1.1",
+            "cicd_ado_project_name": "aws-lab-2024"
+          }
+        },
+        {
+          "accountId": "381491825795",
+          "accountName": "acai_aws-lab1_wl4",
+          "accountStatus": "ACTIVE",
+          "accountTags": {
+            "owner": "Customer Relations",
+            "environment": "Non-Prod",
+            "application": "CRM",
+            "type": "Workload",
+            "confidentiality_level": "Confidential"
+          },
+          "ouId": "ou-er26-hsal28aq",
+          "ouIdWithPath": "o-3iuv4h36uk/r-er26/ou-er26-08tbwblz/ou-er26-sgxk358u/ou-er26-hsal28aq",
+          "ouName": "NonProd",
+          "ouNameWithPath": "Root/Lab_WorkloadAccounts/BusinessUnit_1/NonProd",
+          "ouTags": {
+            "module_provider": "ACAI GmbH",
+            "environment": "Production",
+            "module_source": "github.com/acai-consulting/terraform-aws-acf-org-ou-mgmt",
+            "application": "AWS MA Core",
+            "cicd_ado_organization": "acai-consulting",
+            "cicd_branch_name": "initial_version",
+            "cicd_pipeline_name": "Org-Mgmt",
+            "module_name": "terraform-aws-acf-org-ou-mgmt",
+            "module_version": "1.1.1",
+            "cicd_ado_project_name": "aws-lab-2024"
+          }
+        },
+        {
+          "accountId": "471112519658",
+          "accountName": "acai_aws-lab1_wl11",
+          "accountStatus": "ACTIVE",
+          "accountTags": {
+            "owner": "Public Relations",
+            "environment": "Prod",
+            "application": "WebSite",
+            "type": "Workload",
+            "confidentiality_level": "Public"
+          },
+          "ouId": "ou-er26-yhoi74yu",
+          "ouIdWithPath": "o-3iuv4h36uk/r-er26/ou-er26-08tbwblz/ou-er26-86t9eq70/ou-er26-yhoi74yu",
+          "ouName": "Prod",
+          "ouNameWithPath": "Root/Lab_WorkloadAccounts/BusinessUnit_3/Prod",
+          "ouTags": {
+            "module_provider": "ACAI GmbH",
+            "environment": "Production",
+            "module_source": "github.com/acai-consulting/terraform-aws-acf-org-ou-mgmt",
+            "application": "AWS MA Core",
+            "cicd_ado_organization": "acai-consulting",
+            "cicd_branch_name": "initial_version",
+            "cicd_pipeline_name": "Org-Mgmt",
+            "module_name": "terraform-aws-acf-org-ou-mgmt",
+            "module_version": "1.1.1",
+            "cicd_ado_project_name": "aws-lab-2024"
+          }
+        },
+        {
+          "accountId": "211125581534",
+          "accountName": "acai_aws-lab1_wl6",
+          "accountStatus": "ACTIVE",
+          "accountTags": {
+            "owner": "Data Science",
+            "environment": "Non-Prod",
+            "application": "Data Analytics",
+            "type": "Workload",
+            "confidentiality_level": "Confidential"
+          },
+          "ouId": "ou-er26-dixhnh76",
+          "ouIdWithPath": "o-3iuv4h36uk/r-er26/ou-er26-08tbwblz/ou-er26-q3h5v9hp/ou-er26-dixhnh76",
+          "ouName": "NonProd",
+          "ouNameWithPath": "Root/Lab_WorkloadAccounts/BusinessUnit_2/NonProd",
+          "ouTags": {
+            "module_provider": "ACAI GmbH",
+            "environment": "Production",
+            "module_source": "github.com/acai-consulting/terraform-aws-acf-org-ou-mgmt",
+            "application": "AWS MA Core",
+            "cicd_ado_organization": "acai-consulting",
+            "cicd_branch_name": "initial_version",
+            "cicd_pipeline_name": "Org-Mgmt",
+            "module_name": "terraform-aws-acf-org-ou-mgmt",
+            "module_version": "1.1.1",
+            "cicd_ado_project_name": "aws-lab-2024"
+          }
+        }
+      ],
+      "account_ids": [
+        "905418151471",
+        "851725551928",
+        "975050251880",
+        "654654540496",
+        "058264133468",
+        "891376920850",
+        "975049905426",
+        "533267373639",
+        "637423197597",
+        "637423299405",
+        "339712813830",
+        "058264189027",
+        "891376918207",
+        "851725495887",
+        "211125437884",
+        "590183804009",
+        "975049907839",
+        "590184140845",
+        "533267304214",
+        "381491825795",
+        "471112519658",
+        "211125581534"
+      ],
+      "info": "Selected 22 of 22 cache-items."
+    }
+  }

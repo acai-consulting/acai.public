@@ -59,7 +59,7 @@ p,
 /* Styling for the layout of the chat bubble. Width, height, border, position and radius of the chat bubble */
 .bpw-layout {
   width: 460px !important;
-  height: 80vh;
+  height: 60vh;
   border-radius: 10px;
   right: 10px;
   bottom: 5px;
