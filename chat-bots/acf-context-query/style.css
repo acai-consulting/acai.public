@@ -1,0 +1,4 @@
+#bp-chat-container {
+    max-width: 600px !important; /* Adjust the width as needed */
+    width: 100% !important;
+  }
