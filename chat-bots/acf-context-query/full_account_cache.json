@@ -334,6 +334,33 @@
                 }
             },
             {
+                "accountId": "183295430209",
+                "accountName": "acai_aws-lab1_core-image_factory",
+                "accountStatus": "ACTIVE",
+                "accountTags": {
+                    "owner": "Foundation Core Team",
+                    "environment": "Prod",
+                    "type": "Core",
+                    "confidantiality_level": "Secret"
+                },
+                "ouId": "ou-er26-p5p4ro17",
+                "ouIdWithPath": "o-3iuv4h36uk/r-er26/ou-er26-l6hjwl3y/ou-er26-p5p4ro17",
+                "ouName": "Security",
+                "ouNameWithPath": "Root/Lab_CoreAccounts/Security",
+                "ouTags": {
+                    "module_provider": "ACAI GmbH",
+                    "environment": "Production",
+                    "module_source": "github.com/acai-consulting/terraform-aws-acf-org-ou-mgmt",
+                    "application": "AWS MA Core",
+                    "cicd_ado_organization": "acai-consulting",
+                    "cicd_branch_name": "initial_version",
+                    "cicd_pipeline_name": "Org-Mgmt",
+                    "module_name": "terraform-aws-acf-org-ou-mgmt",
+                    "module_version": "1.1.1",
+                    "cicd_ado_project_name": "aws-lab-2024"
+                }
+            },
+            {
                 "accountId": "891376918207",
                 "accountName": "acai_aws-lab1_wl7",
                 "accountStatus": "ACTIVE",
@@ -613,6 +640,7 @@
             "637423299405",
             "339712813830",
             "058264189027",
+            "183295430209",
             "891376918207",
             "851725495887",
             "211125437884",
@@ -624,6 +652,6 @@
             "471112519658",
             "211125581534"
         ],
-        "info": "Selected 22 of 22 cache-items."
+        "info": "Selected 23 of 23 cache-items."
     }
 }
